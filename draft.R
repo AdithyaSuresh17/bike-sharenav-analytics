@@ -1,7 +1,6 @@
 library(tidyverse)
 
 #Importing Data into the notebook
-
 march_23<-read_csv("/Users/adithyasuresh/Documents/analytics project/untitled folder/202303-divvy-tripdata.csv")
 april_23<-read_csv("/Users/adithyasuresh/Documents/analytics project/untitled folder/202304-divvy-tripdata.csv")
 may_23<-read_csv("/Users/adithyasuresh/Documents/analytics project/untitled folder/202305-divvy-tripdata.csv")
